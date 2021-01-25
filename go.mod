@@ -7,7 +7,7 @@ require (
 	github.com/aybabtme/iocontrol v0.0.0-20150809002002-ad15bcfc95a0 // indirect
 	github.com/benbjohnson/clock v1.0.3 // indirect
 	github.com/coreos/ignition/v2 v2.9.0
-	github.com/go-openapi/runtime v0.19.24
+	github.com/go-openapi/runtime v0.19.26
 	github.com/go-openapi/strfmt v0.19.11
 	github.com/golang/mock v1.4.4
 	github.com/google/uuid v1.1.4
